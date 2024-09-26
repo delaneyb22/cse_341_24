@@ -1,0 +1,19 @@
+{
+  "name": "cse_341_24",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delaneyb22/cse_341_24.git"
+  },
+  "author": "delaney baker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delaneyb22/cse_341_24/issues"
+  },
+  "homepage": "https://github.com/delaneyb22/cse_341_24#readme"
+}
