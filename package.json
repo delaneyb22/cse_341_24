@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/delaneyb22/cse_341_24/issues"
   },
-  "homepage": "https://github.com/delaneyb22/cse_341_24#readme"
+  "homepage": "https://github.com/delaneyb22/cse_341_24#readme",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
 }
