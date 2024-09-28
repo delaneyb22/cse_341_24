@@ -5,8 +5,8 @@ const mongodb= require('./data/database');
 
 const port = process.env.PORT || 3000;
 
-//app.use('/', require('./routes'));
-app.use('/', router);
+app.use('/', require('./routes'));
+
 
 
 mongodb.initDb((err) =>{
@@ -19,3 +19,4 @@ mongodb.initDb((err) =>{
 });
 
 
+//module.export ?
